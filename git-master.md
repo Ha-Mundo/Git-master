@@ -30,7 +30,7 @@ The command below returns a list of information about your git configuration inc
   How to setup your Git user email:
   This command lets you setup the user email address you'll use in your commits.
 
-- `git config --global user.email "theworld@protonmail.com"`
+- `git config --global user.email "theworld@mail.com"`
   How to cache your login credentials in Git:
   You can store login credentials in the cache so you don't have to type them in each time. Just use this command:
 
